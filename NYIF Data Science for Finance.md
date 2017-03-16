@@ -2,6 +2,15 @@
 
 This course will teach you how to extract valuable insight from financial data with the powerful Python programming language. The course is a comprehensive introduction to the fundamentals of the Python open data science stack, including NumPy, SciPy, Pandas, Matplotlib, and scikit-learn. Learn how to wrangle data from many different sources. Learn the fundamentals of machine learning and in-demand analysis skills. By the end of the course you will have the tools needed to develop your own algorithmic trading strategy.
 
+### What You'll Learn
+**DESK-READY SKILLS**
+Review some fundamental features of the Python language including data structures and object-oriented programming
+Learn how to manipulate and analyze arrays and matrices in Python
+Use the scientific libraries including NumPy, SciPy, Matplotlib, Pandas, and scikit-learn
+Learn to work with data in many different formats
+Develop a portfolio of applications for analyzing and visualizing financial data
+Learn how to apply machine learning techniques to extract insight from data
+Learn all the tools you need to create your own automated trading strategy
 ### Day 1
 MODULE 1: THE PYTHON ENVIRONMENT
 Installing Python
