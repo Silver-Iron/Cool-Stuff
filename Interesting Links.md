@@ -1,10 +1,4 @@
-**Goldman Sachs & Data Science**
-- **[Goldman Sachs Big Data Center](https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/big-data-center.html)**
-- [Harnessing the Power of Big Data - Brochure (PDF)](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/big-data-brochure.pdf?sa=n&rd=n)
-- [GSAM Quantitative Equity Strategies Fund Updates (PDF)](http://www.goldmansachs.com/gsam/docs/funds_international/fund_updates/monthly_fund_updates/mfu_sicav_en.pdf)
-- [GSAM Perspectives: Big Opportunities in Big Data](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2016/big-data.html) (See featured articles!!!)
-- [WIRED: What Do Google and Goldman Sachs have in Common?](https://www.wired.com/2012/10/goldman-sachs-as-google/)
-- [GSAM Perspectives: ESG & Impact Investing](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2015/esg.html)
+**[Brookings Future Development Top Reads](https://www.brookings.edu/blog/future-development/2017/02/24/future-development-reads-hans-rosling-kenneth-arrow-and-bill-and-melinda-gates/)
 
 **[NYIF Data Science for Finance Professional Certificate](https://www.nyif.com/data-science-finance-professional-certificate.html)**
 
@@ -33,3 +27,11 @@
   - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239629/ishares-msci-emerging-markets-asia-etf/1467271812596.ajax?fileType=csv&fileName=EEMA_holdings&dataType=fund)
 - [iShares MSCI Philippines ETF](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf)
   - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf/1467271812596.ajax?fileType=csv&fileName=EPHE_holdings&dataType=fund)
+  
+  ### Goldman Sachs & Data Science
+- **[Goldman Sachs Big Data Center](https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/big-data-center.html)**
+- [Harnessing the Power of Big Data - Brochure (PDF)](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/big-data-brochure.pdf?sa=n&rd=n)
+- [GSAM Quantitative Equity Strategies Fund Updates (PDF)](http://www.goldmansachs.com/gsam/docs/funds_international/fund_updates/monthly_fund_updates/mfu_sicav_en.pdf)
+- [GSAM Perspectives: Big Opportunities in Big Data](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2016/big-data.html) (See featured articles!!!)
+- [WIRED: What Do Google and Goldman Sachs have in Common?](https://www.wired.com/2012/10/goldman-sachs-as-google/)
+- [GSAM Perspectives: ESG & Impact Investing](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2015/esg.html)
