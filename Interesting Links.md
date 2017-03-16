@@ -15,11 +15,12 @@
 **[NUS Forum: Financing Infrastructure and Promoting Free Trade](https://www.youtube.com/watch?v=Pn9T0Oqsr7w)**
 - [Conference Report (PDF)](https://bschool.nus.edu.sg/Portals/0/docs/camri/Post-Event-Report-on-8th-WCY-Forum.pdf)
 
+  
 **ASEAN Related Funds and Benchmarks**
 - [MSCI AC ASEAN Index (PDF)](https://www.msci.com/documents/10199/898cceae-3062-4000-a1a4-9877c6d8325e)
 - [BlackRock ASEAN Leaders Fund](https://www.blackrock.com/sg/en/products/237595/bgf-asean-leaders-fund-a2-usd)
 - [BlackRock Global Funds Annual Report (PDF)](https://www.blackrock.com/sg/en/literature/annual-report/bgf-audited-annual-report-and-accounts-sg.pdf)
-  - Philippine equity holdings would be interesting to research!!!
+  - **Note:** Philippine equity holdings would be interesting to research!!!
 - [iShares MSCI Emerging Markets Asia ETF](https://www.ishares.com/us/products/239629/ishares-msci-emerging-markets-asia-etf)
   - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239629/ishares-msci-emerging-markets-asia-etf/1467271812596.ajax?fileType=csv&fileName=EEMA_holdings&dataType=fund)
 - [iShares MSCI Philippines ETF](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf)
