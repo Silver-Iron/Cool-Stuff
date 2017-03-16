@@ -1,6 +1,6 @@
 **[NYIF Data Science for Finance Professional Certificate](https://www.nyif.com/data-science-finance-professional-certificate.html)**
 
-**Bokeh Data Visualization**  
+**[Bokeh Data Visualization](http://bokeh.pydata.org/en/latest/docs/gallery.html)**  
 - [Stock return correlation (linked plots)](https://demo.bokehplots.com/apps/stocks)
 - [Gapminder visualization](https://demo.bokehplots.com/apps/gapminder)
 - [Candlestick plot](http://bokeh.pydata.org/en/latest/docs/gallery/candlestick.html)
