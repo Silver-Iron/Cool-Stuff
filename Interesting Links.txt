@@ -1,3 +1,9 @@
 https://www.nyif.com/data-science-finance-professional-certificate.html
 
+Bokeh Data Visualization
+- Stock return correlation (linked plots)
+- Candlestick plot
+- Les Miserable character occurrences
+- Meat price plot
+
 Institute for Advanced Study
