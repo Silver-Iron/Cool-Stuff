@@ -4,16 +4,14 @@ This course will teach you how to extract valuable insight from financial data w
 
 ### Day 1
 MODULE 1: THE PYTHON ENVIRONMENT
-
 Installing Python
 Virtual Environments
 Installing Python Packages
 The pip Package Manager
 The Anaconda Distribution
 Jupyter Notebooks
-Back to Top
-MODULE 2: PYTHON FEATURES
 
+MODULE 2: PYTHON FEATURES
 Control Structures
 Data Types
 Functions
@@ -25,9 +23,8 @@ Scripting
 Modules and Packages
 Documentation
 Testing
-Back to Top
-MODULE 3: OBJECT ORIENTED PROGRAMMING
 
+MODULE 3: OBJECT ORIENTED PROGRAMMING
 Attributes
 Methods
 Special Attributes and Methods
