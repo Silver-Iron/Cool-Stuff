@@ -1,4 +1,5 @@
-**[Brookings Future Development Top Reads](https://www.brookings.edu/blog/future-development/2017/02/24/future-development-reads-hans-rosling-kenneth-arrow-and-bill-and-melinda-gates/)
+**[Brookings Future Development Top Reads](https://www.brookings.edu/blog/future-development/2017/02/24/future-development-reads-hans-rosling-kenneth-arrow-and-bill-and-melinda-gates/)**
+- [Kenneth Arrow and the promise of behavioral development economics (rich with links)](https://www.brookings.edu/blog/future-development/2017/03/13/kenneth-arrow-and-the-promise-of-behavioral-development-economics/)
 
 **[NYIF Data Science for Finance Professional Certificate](https://www.nyif.com/data-science-finance-professional-certificate.html)**
 
