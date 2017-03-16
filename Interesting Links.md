@@ -1,3 +1,11 @@
+**Goldman Sachs & Data Science**
+- **[Goldman Sachs Big Data Center](https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/big-data-center.html)**
+- [Harnessing the Power of Big Data - Brochure (PDF)](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/big-data-brochure.pdf?sa=n&rd=n)
+- [GSAM Quantitative Equity Strategies Fund Updates (PDF)](http://www.goldmansachs.com/gsam/docs/funds_international/fund_updates/monthly_fund_updates/mfu_sicav_en.pdf)
+- [GSAM Perspectives: Big Opportunities in Big Data](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2016/big-data.html)
+- [WIRED: What Do Google and Goldman Sachs have in Common?](https://www.wired.com/2012/10/goldman-sachs-as-google/)
+- [GSAM Perspectives: ESG & Impact Investing](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2015/esg.html)
+
 **[NYIF Data Science for Finance Professional Certificate](https://www.nyif.com/data-science-finance-professional-certificate.html)**
 
 **[Bokeh Data Visualization](http://bokeh.pydata.org/en/latest/docs/gallery.html)**  
