@@ -7,7 +7,7 @@
 - [Les Miserable character occurrences](http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html)
 - [Simple meat price plot](http://bokeh.pydata.org/en/latest/docs/gallery/ggplot_line.html)
 
-Institute for Advanced Study
+**[Institute for Advanced Study](https://www.ias.edu/)**
 
 **[NUS Graduate Certificate in Applied Portfolio Management](http://bschool.nus.edu/camri/executive-education-at-camri)**
 - [Syllabus (PDF)](http://bschool.nus.edu/Portals/0/images/CAMRI/ee/g-CAPM%20Detailed%20Syllabus%202016.pdf)
