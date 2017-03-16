@@ -8,3 +8,8 @@
 - [Simple meat price plot](http://bokeh.pydata.org/en/latest/docs/gallery/ggplot_line.html)
 
 Institute for Advanced Study
+
+**[NUS Graduate Certificate in Applied Portfolio Management](http://bschool.nus.edu/camri/executive-education-at-camri)**
+
+**[NUS Forum: Financing Infrastructure and Promoting Free Trade](https://www.youtube.com/watch?v=Pn9T0Oqsr7w)**
+- [Conference Report (PDF)](https://bschool.nus.edu.sg/Portals/0/docs/camri/Post-Event-Report-on-8th-WCY-Forum.pdf)
