@@ -29,7 +29,7 @@
 - [iShares MSCI Philippines ETF](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf)
   - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf/1467271812596.ajax?fileType=csv&fileName=EPHE_holdings&dataType=fund)
   
-  ### Goldman Sachs & Data Science
+### Goldman Sachs & Data Science
 - **[Goldman Sachs Big Data Center](https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/big-data-center.html)**
 - [Harnessing the Power of Big Data - Brochure (PDF)](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/big-data-brochure.pdf?sa=n&rd=n)
 - [GSAM Quantitative Equity Strategies Fund Updates (PDF)](http://www.goldmansachs.com/gsam/docs/funds_international/fund_updates/monthly_fund_updates/mfu_sicav_en.pdf)
@@ -44,3 +44,7 @@
   - Carlyle
   - Swedish EQT Partners
   - Macquarie's private equity arm 
+
+**[Montesquieu's Forms of Government](https://plato.stanford.edu/entries/montesquieu/)**
+  - [Britannica Article](https://www.britannica.com/biography/Montesquieu)
+  - [Sun Yat Sen's Three principles of the People](https://en.wikipedia.org/wiki/Three_Principles_of_the_People) (Five Branches of Gov't)
