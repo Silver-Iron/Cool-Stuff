@@ -1,0 +1,5 @@
+[CEMEX Financial Reports](http://www.cemexholdingsphilippines.com/financial-reports.aspx)  
+[CEMEX Q3'16 Quarterly Report (PDF)](http://www.cemexholdingsphilippines.com/Userfiles/PDF%20Files/CHP%20SEC%20Form%2017-Q%203rd%20Quarter%202016%20PART%201.pdf)  
+[COL Application Form (PDF)](https://www.colfinancial.com/ape/Final2/home/pdfs/Individual%20Forms%20complete.pdf)  
+[TIN Application Procedure (PDF)](https://www.colfinancial.com/ape/Final2/home/pdfs/TIN%20Application%20Procedure.pdf)  
+[Birth Certificate Application (PDF)](https://www.ecensus.com.ph/Secure/Files/Birth%20Application%20Form.pdf)
