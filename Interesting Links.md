@@ -36,3 +36,11 @@
 - [GSAM Perspectives: Big Opportunities in Big Data](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2016/big-data.html) (See featured articles!!!)
 - [WIRED: What Do Google and Goldman Sachs have in Common?](https://www.wired.com/2012/10/goldman-sachs-as-google/)
 - [GSAM Perspectives: ESG & Impact Investing](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2015/esg.html)
+
+
+**[Private Equity in the Philippines](http://www.ey.com/ph/en/industries/private-equity)**
+- [Korea's Michael Kim: Private Equity](https://www.bloomberg.com/news/articles/2015-02-04/korea-s-michael-kim-leads-buyout-surge-as-foreign-firms-return)  
+  - Korea's MBK Partners
+  - Carlyle
+  - Swedish EQT Partners
+  - Macquarie's private equity arm 
