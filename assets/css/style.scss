@@ -7,6 +7,7 @@
   color: $header-heading-color;
   text-align: center;
   max-width: 300px;
+  display: block;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
@@ -20,43 +21,5 @@
 
   @include small {
     padding: 2rem 1rem;
-  }
-}
-.project-tagline:before {
-  content: "Cool stuff that fascinates me.";
-  display: block;
-  margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.8;
-
-  @include large {
-    font-size: 1.25rem;
-  }
-
-  @include medium {
-    font-size: 1.15rem;
-  }
-
-  @include small {
-    font-size: 1rem;
-  }
-}
-.project-tagline:after {
-  content: "Blame it to my curiosity!!!";
-  display: block;
-  margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.8;
-
-  @include large {
-    font-size: 1.25rem;
-  }
-
-  @include medium {
-    font-size: 1.15rem;
-  }
-
-  @include small {
-    font-size: 1rem;
   }
 }
