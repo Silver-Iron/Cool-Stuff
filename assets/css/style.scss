@@ -7,7 +7,6 @@
   color: $header-heading-color;
   text-align: center;
   max-width: 300px;
-  text-overflow; inherit;
   overflow: visible;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
@@ -22,5 +21,40 @@
 
   @include small {
     padding: 2rem 1rem;
+  }
+}
+.project-tagline:before {
+  content: "Cool stuff that fascinates me";
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7;
+
+  @include large {
+    font-size: 1.25rem;
+  }
+
+  @include medium {
+    font-size: 1.15rem;
+  }
+
+  @include small {
+    font-size: 1rem;
+  }
+}.project-tagline:after {
+";
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7;
+
+  @include large {
+    font-size: 1.25rem;
+  }
+
+  @include medium {
+    font-size: 1.15rem;
+  }
+
+  @include small {
+    font-size: 1rem;
   }
 }
