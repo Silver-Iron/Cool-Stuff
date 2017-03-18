@@ -7,6 +7,8 @@
   color: $header-heading-color;
   text-align: center;
   max-width: 300px;
+  text-overflow; inherit;
+  overflow: visible;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
