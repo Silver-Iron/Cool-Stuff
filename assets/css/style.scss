@@ -7,7 +7,6 @@
   color: $header-heading-color;
   text-align: center;
   max-width: 300px;
-  overflow: visible;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
@@ -24,7 +23,7 @@
   }
 }
 .project-tagline:before {
-  content: "Cool stuff that fascinates me";
+  content: "Cool stuff that fascinates me.";
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
@@ -40,8 +39,9 @@
   @include small {
     font-size: 1rem;
   }
-}.project-tagline:after {
-";
+}
+.project-tagline:after {
+  content: "Blame it to my curiosity!!!";
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
