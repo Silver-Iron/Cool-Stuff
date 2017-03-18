@@ -24,9 +24,10 @@
 }
 .project-tagline:before {
   content: "Cool stuff that fascinates me.";
+  display: block;
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7;
+  opacity: 0.8;
 
   @include large {
     font-size: 1.25rem;
@@ -42,9 +43,10 @@
 }
 .project-tagline:after {
   content: "Blame it to my curiosity!!!";
+  display: block;
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7;
+  opacity: 0.8;
 
   @include large {
     font-size: 1.25rem;
