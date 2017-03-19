@@ -34,6 +34,7 @@
 ### Tools for Creating Infographics
 - [Piktochart](https://piktochart.com)
 - [Visual.ly](http://visual.ly)
+- [Free Tools](http://www.creativebloq.com/infographic/tools-2131971)
 ### Goldman Sachs & Data Science
 - **[Goldman Sachs Big Data Center](https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/big-data-center.html)**
 - [Harnessing the Power of Big Data - Brochure (PDF)](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/big-data-brochure.pdf?sa=n&rd=n)
