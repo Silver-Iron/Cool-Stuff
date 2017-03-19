@@ -30,8 +30,10 @@
 - [iShares MSCI Emerging Markets Asia ETF](https://www.ishares.com/us/products/239629/ishares-msci-emerging-markets-asia-etf)
   - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239629/ishares-msci-emerging-markets-asia-etf/1467271812596.ajax?fileType=csv&fileName=EEMA_holdings&dataType=fund)
 - [iShares MSCI Philippines ETF](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf)
-  - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf/1467271812596.ajax?fileType=csv&fileName=EPHE_holdings&dataType=fund)
-  
+  - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf/1467271812596.ajax?fileType=csv&fileName=EPHE_holdings&dataType=fund)
+### Tools for Creating Infographics
+- [Piktochart](https://piktochart.com)
+- [Visual.ly](http://visual.ly)
 ### Goldman Sachs & Data Science
 - **[Goldman Sachs Big Data Center](https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/big-data-center.html)**
 - [Harnessing the Power of Big Data - Brochure (PDF)](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/big-data-brochure.pdf?sa=n&rd=n)
