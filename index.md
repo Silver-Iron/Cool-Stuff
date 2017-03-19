@@ -3,7 +3,7 @@
 - [Kenneth Arrow and the promise of behavioral development economics (rich with links)](https://www.brookings.edu/blog/future-development/2017/03/13/kenneth-arrow-and-the-promise-of-behavioral-development-economics/)
 
 **[Young Southeast Asian Leaders Initiative](https://asean.usmission.gov/yseali/yseali-about/)** [US-supported]
-
+**[YSEALI Seeds for the Future Grants](http://culturalvistas.org/ysealiseeds/)**
 **[NYIF Data Science for Finance Professional Certificate](https://www.nyif.com/data-science-finance-professional-certificate.html)**
 
 **[Bokeh Data Visualization](http://bokeh.pydata.org/en/latest/docs/gallery.html)**  
