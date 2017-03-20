@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Data Science for Practical Economic Research
 **Course content:** This course is designed to help students use their time efficiently when performing economic data analysis. 
 
