@@ -1,9 +1,14 @@
+---
+layout: default
+---
+
 # List of Interesting Links 
 **[Brookings Future Development Top Reads](https://www.brookings.edu/blog/future-development/2017/02/24/future-development-reads-hans-rosling-kenneth-arrow-and-bill-and-melinda-gates/)**
 - [Kenneth Arrow and the promise of behavioral development economics (rich with links)](https://www.brookings.edu/blog/future-development/2017/03/13/kenneth-arrow-and-the-promise-of-behavioral-development-economics/)
 
-**[Young Southeast Asian Leaders Initiative](https://asean.usmission.gov/yseali/yseali-about/)** [US-supported]  
-**[YSEALI Seeds for the Future Grants](http://culturalvistas.org/ysealiseeds/)**
+**[Young Southeast Asian Leaders Initiative](https://asean.usmission.gov/yseali/yseali-about/)** [US-supported]
+**[YSEALI Seeds for the Future Grants](http://culturalvistas.org/ysealiseeds/)**  
+
 **[NYIF Data Science for Finance Professional Certificate](https://www.nyif.com/data-science-finance-professional-certificate.html)**
 
 **[Bokeh Data Visualization](http://bokeh.pydata.org/en/latest/docs/gallery.html)**  
@@ -20,7 +25,6 @@
 
 **[NUS Forum: Financing Infrastructure and Promoting Free Trade](https://www.youtube.com/watch?v=Pn9T0Oqsr7w)**
 - [Conference Report (PDF)](https://bschool.nus.edu.sg/Portals/0/docs/camri/Post-Event-Report-on-8th-WCY-Forum.pdf)
-
   
 ### ASEAN Related Funds and Benchmarks
 - [MSCI AC ASEAN Index (PDF)](https://www.msci.com/documents/10199/898cceae-3062-4000-a1a4-9877c6d8325e)
@@ -31,10 +35,12 @@
   - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239629/ishares-msci-emerging-markets-asia-etf/1467271812596.ajax?fileType=csv&fileName=EEMA_holdings&dataType=fund)
 - [iShares MSCI Philippines ETF](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf)
   - [Detailed Holdings and Analytics (XLS)](https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf/1467271812596.ajax?fileType=csv&fileName=EPHE_holdings&dataType=fund)
+  
 ### Tools for Creating Infographics
 - [Piktochart](https://piktochart.com)
 - [Visual.ly](http://visual.ly)
 - [Free Tools](http://www.creativebloq.com/infographic/tools-2131971)
+
 ### Goldman Sachs & Data Science
 - **[Goldman Sachs Big Data Center](https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/big-data-center.html)**
 - [Harnessing the Power of Big Data - Brochure (PDF)](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/big-data-brochure.pdf?sa=n&rd=n)
@@ -42,7 +48,6 @@
 - [GSAM Perspectives: Big Opportunities in Big Data](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2016/big-data.html) (See featured articles!!!)
 - [WIRED: What Do Google and Goldman Sachs have in Common?](https://www.wired.com/2012/10/goldman-sachs-as-google/)
 - [GSAM Perspectives: ESG & Impact Investing](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-insights/gsam-perspectives/2015/esg.html)
-
 
 **[Private Equity in the Philippines](http://www.ey.com/ph/en/industries/private-equity)**
 - [Korea's Michael Kim: Private Equity](https://www.bloomberg.com/news/articles/2015-02-04/korea-s-michael-kim-leads-buyout-surge-as-foreign-firms-return)  
