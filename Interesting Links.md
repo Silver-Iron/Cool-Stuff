@@ -26,6 +26,11 @@ layout: default
 **[NUS Forum: Financing Infrastructure and Promoting Free Trade](https://www.youtube.com/watch?v=Pn9T0Oqsr7w)**
 - [Conference Report (PDF)](https://bschool.nus.edu.sg/Portals/0/docs/camri/Post-Event-Report-on-8th-WCY-Forum.pdf)
   
+### Econometrics Resources  
+- **[MIT 14.32 (taught by Dr. Mikusheva)](http://stellar.mit.edu/S/course/14/fa16/14.32/index.html)**  
+- **[Prof. Pischke's Website (with troves of resources)](http://econ.lse.ac.uk/staff/spischke/index_own.html)**  
+- **[Prof. Daron Acemoglu's Website (with lots of lecture notes)](http://economics.mit.edu/faculty/acemoglu/courses)**  
+
 ### ASEAN Related Funds and Benchmarks
 - [MSCI AC ASEAN Index (PDF)](https://www.msci.com/documents/10199/898cceae-3062-4000-a1a4-9877c6d8325e)
 - [BlackRock ASEAN Leaders Fund](https://www.blackrock.com/sg/en/products/237595/bgf-asean-leaders-fund-a2-usd)
