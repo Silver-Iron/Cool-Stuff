@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
+
 title: Silver & Iron
 description: "Cool stuff that fascinates me. Blame it to my curiosity!!!"
+
+baseurl: /SilverIron
