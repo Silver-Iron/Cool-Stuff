@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## DATA SCIENCE FOR FINANCE PROFESSIONAL CERTIFICATE
 
 This course will teach you how to extract valuable insight from financial data with the powerful Python programming language. The course is a comprehensive introduction to the fundamentals of the Python open data science stack, including NumPy, SciPy, Pandas, Matplotlib, and scikit-learn. Learn how to wrangle data from many different sources. Learn the fundamentals of machine learning and in-demand analysis skills. By the end of the course you will have the tools needed to develop your own algorithmic trading strategy.
