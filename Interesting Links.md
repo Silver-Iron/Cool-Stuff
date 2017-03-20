@@ -64,3 +64,5 @@ layout: default
 **[Montesquieu's Forms of Government](https://plato.stanford.edu/entries/montesquieu/)**
   - [Britannica Article](https://www.britannica.com/biography/Montesquieu)
   - [Sun Yat Sen's Three principles of the People](https://en.wikipedia.org/wiki/Three_Principles_of_the_People) (Five Branches of Gov't)
+
+**[Language Learning for Introverts](https://www.fluentin3months.com/language-learning-for-introverts/)**
